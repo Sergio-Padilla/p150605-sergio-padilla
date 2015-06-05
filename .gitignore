@@ -41,3 +41,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Carpetas dist y build
+
+GitHub/p150605-sergio-padilla/dist
+GitHub/p150605-sergio-padilla/build
+
+# Archivos de audio
+
+.mp3
+.wav
